@@ -1,6 +1,6 @@
 ![logo](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Laxmipriya Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">---------Full Stack Developer---------</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 
 
