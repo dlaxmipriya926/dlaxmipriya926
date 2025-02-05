@@ -1,4 +1,4 @@
-![logo](https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)
+![logo](https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif style="width:200px")
 <h1 align="center">Hi 👋, I'm Laxmipriya Das</h1>
 <h2 align="center">-----------Full Stack Developer----------</h2>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
