@@ -1,4 +1,4 @@
-![logo]([https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif](https://tse1.mm.bing.net/th?id=OIP.zsEkDG1JBweiE87uCORfKQHaEK&pid=Api&P=0&h=180])
+![logo]([https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif])
 <h1 align="center">Hi 👋, I'm Laxmipriya Das</h1>
 <h2 align="center">-----------Full Stack Developer----------</h2>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
