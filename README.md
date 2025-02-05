@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/laxmipriya-das-76b05429a](www.linkedin.com/in/laxmipriya-das-76b05429a)
 
-- 💬 Ask me about **Pyhton, HTML, CSS**
+- 💬 Ask me about **Pyhton, HTML, CSS, SQL+, JavaScript, Django**
 
 - 📫 How to reach me **dlaxmipriya926@gmail.com**
 
