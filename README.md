@@ -1,4 +1,4 @@
-![logo](https://camo.githubusercontent.com/35aa9b954c497d828dc2aef968a4569f0abe01a368710558babc0d575d44f257/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f73656c66706f7274726169742e676966)
+![logo](female-developer-working-on-a-project-4217498-3518346.webp)
 <h1 align="center">Hi 👋, I'm Laxmipriya Das</h1>
 <h2 align="center">-----------Full Stack Developer----------</h2>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
