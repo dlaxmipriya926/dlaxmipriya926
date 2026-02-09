@@ -1,12 +1,16 @@
 ![logo](female-developer-working-on-a-project-4217498-3518346.webp)
 <h1 align="center">Hi 👋, I'm Laxmipriya Das</h1>
-<h2 align="center">-----------Full Stack Developer----------</h2>
+<h2 align="center">-----------Python Full Stack Developer----------</h2>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlaxmipriya926&label=Profile%20views&color=0e75b6&style=flat" alt="dlaxmipriya926" /> </p>
 
-- 🌱 I’m currently learning **Django, python Full Stack Course**
+-  Currently working on **Python & Full Stack projects**
+- 🌱 Learning **Django, React, REST APIs, and Cloud basics**
+- 💡 Interested in **Backend Development, Web Apps & AI integration**
+- 📚 Strong foundation in **Data Structures & Programming**
+- 🎯 Goal: Become a highly skilled **Full Stack Software Engineer**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/laxmipriya-das-76b05429a](www.linkedin.com/in/laxmipriya-das-76b05429a)
 
