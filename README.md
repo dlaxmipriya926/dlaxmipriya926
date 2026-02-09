@@ -12,8 +12,7 @@
 - 📚 Strong foundation in **Data Structures & Programming**
 - 🎯 Goal: Become a highly skilled **Full Stack Software Engineer**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/laxmipriya-das-76b05429a](www.linkedin.com/in/laxmipriya-das-76b05429a)
-
+- 👨‍💻 All of my projects are available at [(https://github.com/dlaxmipriya926?tab=repositories)]
 - 💬 Ask me about **Pyhton, HTML, CSS, SQL+, JavaScript, Django, Numpy, Pandas, Matplotlib**
 
 - 📫 How to reach me **dlaxmipriya926@gmail.com**
