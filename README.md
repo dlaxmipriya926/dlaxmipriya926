@@ -1,81 +1,30 @@
-# Hi 👋, I'm Laxmipriya Das  
+![logo](female-developer-working-on-a-project-4217498-3518346.webp)
+<h1 align="center">Hi 👋, I'm Laxmipriya Das</h1>
+<h2 align="center">-----------Full Stack Developer----------</h2>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 
-### 🐍 Python Full Stack Developer | Web Developer | Tech Enthusiast  
 
-I’m a passionate **Python Full Stack Developer** from India 🇮🇳  
-I enjoy building **scalable web applications**, working with **APIs**, and learning new technologies every day.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dlaxmipriya926&label=Profile%20views&color=0e75b6&style=flat" alt="dlaxmipriya926" /> </p>
 
----
+- 🌱 I’m currently learning **Django, python Full Stack Course**
 
-## 👩‍💻 About Me  
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/laxmipriya-das-76b05429a](www.linkedin.com/in/laxmipriya-das-76b05429a)
 
-- 🔭 Currently working on **Python & Full Stack projects**
-- 🌱 Learning **Django, React, REST APIs, and Cloud basics**
-- 💡 Interested in **Backend Development, Web Apps & AI integration**
-- 📚 Strong foundation in **Data Structures & Programming**
-- 🎯 Goal: Become a highly skilled **Full Stack Software Engineer**
+- 💬 Ask me about **Pyhton, HTML, CSS, SQL+, JavaScript, Django**
 
----
+- 📫 How to reach me **dlaxmipriya926@gmail.com**
 
-## 🛠️ Tech Stack  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/laxmipriya das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxmipriya das" height="30" width="40" /></a>
+</p>
 
-### 💻 Languages  
-- Python  
-- JavaScript  
-- C  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🌐 Frontend  
-- HTML5  
-- CSS3  
-- JavaScript  
-- React (Basics)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlaxmipriya926&show_icons=true&locale=en&layout=compact" alt="dlaxmipriya926" /></p>
 
-### ⚙️ Backend  
-- Python  
-- Django  
-- Flask  
-- REST APIs  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlaxmipriya926&show_icons=true&locale=en" alt="dlaxmipriya926" /></p>
 
-### 🗄️ Database  
-- MySQL  
-- SQLite  
+<p align='center'><img  src="https://github-readme-streak-stats.herokuapp.com/?user=dlaxmipriya926&" alt="dlaxmipriya926" /></p>
 
-### 🧰 Tools & Platforms  
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Linux (Basics)
-
----
-
-## 🚀 Projects  
-
-Here are some of my highlighted projects:
-
-- 🔹 **Python Projects** – Core Python, automation & logic-based programs  
-- 🔹 **Web Applications** – Full stack apps using Django / Flask  
-- 🔹 **Frontend Projects** – Responsive UI using HTML, CSS & JS  
-- 🔹 **API-Based Projects** – RESTful services & integrations  
-
-👉 Check out my repositories to see my work in detail!
-
----
-
-## 📊 GitHub Stats  
-
-![Laxmipriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlaxmipriya926&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlaxmipriya926&layout=compact)
-
----
-
-## 📫 Connect With Me  
-
-- 💼 GitHub: https://github.com/dlaxmipriya926  
-- 📧 Email: *(add your email here)*  
-- 🔗 LinkedIn: *(add LinkedIn link if you have one)*  
-
----
-
-✨ *“Code, learn, improve, repeat.”*  
-Thanks for visiting my profile! 😊
