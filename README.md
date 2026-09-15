@@ -1,6 +1,6 @@
 ![logo](female-developer-working-on-a-project-4217498-3518346.webp)
 <h1 align="center">Hi 👋, I'm Laxmipriya Das</h1>
-<h2 align="center">-----------Python Full Stack Developer----------</h2>
+<h2 align="center">-----------Python AIML Developer----------</h2>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 
 
